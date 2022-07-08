@@ -1,0 +1,15 @@
+com\uiAutomation\testScripts\productDetailsPage\VerifyLowestFirstPriceFilter.class
+com\uiAutomation\testScripts\registrationPage\RegistrationTest.class
+com\uiAutomation\testScripts\samplePage\XlsExcelReader.class
+com\uiAutomation\testScripts\samplePage\App.class
+com\uiAutomation\testScripts\samplePage\Abc2.class
+com\uiAutomation\testScripts\samplePage\Test2.class
+com\uiAutomation\testScripts\samplePage\TestParallelRun.class
+com\uiAutomation\testScripts\loginPage\LoginTest.class
+com\uiAutomation\testScripts\samplePage\ApplicationDBQuery.class
+com\uiAutomation\testScripts\samplePage\Abc0.class
+com\uiAutomation\testScripts\samplePage\Abc1.class
+com\uiAutomation\testScripts\samplePage\TestScreenshot.class
+com\uiAutomation\testScripts\samplePage\XlsExcelWriter.class
+com\uiAutomation\testScripts\samplePage\Employee.class
+com\uiAutomation\testScripts\samplePage\Test1.class

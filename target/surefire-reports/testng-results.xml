@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[TestScreenshot() Test Started...]]>
+    </line>
+    <line>
+      <![CDATA[testScreen() Test Started...]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\uiAutomation\src\test\resources\screenshots\Google Home_07_07_2022_06_34_31_975.png'> <img src='D:\uiAutomation\src\test\resources\screenshots\Google Home_07_07_2022_06_34_31_975.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[testScreen() Test Passed...]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\uiAutomation\src\test\resources\screenshots\testScreen_07_07_2022_06_34_32_186.png'> <img src='D:\uiAutomation\src\test\resources\screenshots\testScreen_07_07_2022_06_34_32_186.png'height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="6152" started-at="2022-07-07T18:34:27 IST" finished-at="2022-07-07T18:34:33 IST">
+    <groups>
+    </groups>
+    <test name="TestScreenshot" duration-ms="6152" started-at="2022-07-07T18:34:27 IST" finished-at="2022-07-07T18:34:33 IST">
+      <class name="com.uiAutomation.testScripts.samplePage.TestScreenshot">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.uiAutomation.testScripts.samplePage.TestScreenshot@62ce72ff]" name="beforeSuite" is-config="true" duration-ms="76" started-at="2022-07-07T18:34:27 IST" finished-at="2022-07-07T18:34:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.uiAutomation.testScripts.samplePage.TestScreenshot@62ce72ff]" name="beforeTest" is-config="true" duration-ms="2147" started-at="2022-07-07T18:34:27 IST" finished-at="2022-07-07T18:34:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.uiAutomation.testScripts.samplePage.TestScreenshot@62ce72ff]" name="beforeClass" is-config="true" duration-ms="27" started-at="2022-07-07T18:34:29 IST" finished-at="2022-07-07T18:34:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uiAutomation.testScripts.samplePage.TestScreenshot@62ce72ff]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2022-07-07T18:34:29 IST" finished-at="2022-07-07T18:34:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uiAutomation.testScripts.samplePage.TestScreenshot.testScreen()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testScreen()[pri:0, instance:com.uiAutomation.testScripts.samplePage.TestScreenshot@62ce72ff]" name="testScreen" duration-ms="2666" started-at="2022-07-07T18:34:29 IST" finished-at="2022-07-07T18:34:32 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[testScreen() Test Started...]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\uiAutomation\src\test\resources\screenshots\Google Home_07_07_2022_06_34_31_975.png'> <img src='D:\uiAutomation\src\test\resources\screenshots\Google Home_07_07_2022_06_34_31_975.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[testScreen() Test Passed...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testScreen -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.uiAutomation.testScripts.samplePage.TestScreenshot@62ce72ff]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-07-07T18:34:32 IST" finished-at="2022-07-07T18:34:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uiAutomation.testScripts.samplePage.TestScreenshot.testScreen()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uiAutomation.testScripts.samplePage.TestScreenshot@62ce72ff]" name="afterMethod" is-config="true" duration-ms="573" started-at="2022-07-07T18:34:32 IST" finished-at="2022-07-07T18:34:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testScreen status=SUCCESS method=TestScreenshot.testScreen()[pri:0, instance:com.uiAutomation.testScripts.samplePage.TestScreenshot@62ce72ff] output=testScreen() Test Started...]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\uiAutomation\src\test\resources\screenshots\testScreen_07_07_2022_06_34_32_186.png'> <img src='D:\uiAutomation\src\test\resources\screenshots\testScreen_07_07_2022_06_34_32_186.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.uiAutomation.testScripts.samplePage.TestScreenshot@62ce72ff]" name="afterClass" is-config="true" duration-ms="1" started-at="2022-07-07T18:34:32 IST" finished-at="2022-07-07T18:34:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.uiAutomation.testScripts.samplePage.TestScreenshot@62ce72ff]" name="afterTest" is-config="true" duration-ms="655" started-at="2022-07-07T18:34:32 IST" finished-at="2022-07-07T18:34:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.uiAutomation.testScripts.samplePage.TestScreenshot@62ce72ff]" name="afterSuite" is-config="true" duration-ms="1" started-at="2022-07-07T18:34:33 IST" finished-at="2022-07-07T18:34:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.uiAutomation.testScripts.samplePage.TestScreenshot -->
+    </test> <!-- TestScreenshot -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
