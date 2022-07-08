@@ -69,8 +69,8 @@ public class TestBase {
 	@BeforeTest
 	public void beforeTest(){
 		ObjectReader.reader = new PropertyReader();
-	//	reportDirectory = new File(ResourceHelper.getResourcePath("../screenshots//"));
-		reportDirectory = new File("src/test/resources/screenshots");
+		reportDirectory = new File(ResourceHelper.getResourcePath("test-output/screenshots"));
+	//	reportDirectory = new File("/screenshots");
 		
 		System.out.println("ResourceHelper user.dir >>> " + System.getProperty("user.dir") );		
 		System.out.println("reportDirectory :       " + reportDirectory );
